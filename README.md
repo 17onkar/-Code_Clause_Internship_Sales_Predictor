@@ -1,4 +1,4 @@
-# -Code_Clause_Internship_Sales_Predictor
+# Code_Clause_Internship_Sales_Predictor
 # Sales Prediction using Python in Jupyter Notebook
 
 This project is aimed at predicting future sales using machine learning algorithms in Python, implemented within a Jupyter Notebook environment. Its primary objective is to forecast sales based on historical data, providing insights and potential forecasting models for business decision-making.
